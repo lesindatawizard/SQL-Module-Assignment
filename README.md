@@ -1,5 +1,7 @@
 ## Assignment – Library Management System (Module 3)
 
+Link to Screenshots: https://drive.google.com/drive/folders/19NQ4YAtSHHKJB9LQ0mNhVbOXc0-OXBsw?usp=sharing
+
 ### Report on building a relational database for a Library Management System
 
 #### Steps Done:
